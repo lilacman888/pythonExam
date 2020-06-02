@@ -6,12 +6,21 @@
 
 months = ("January", "February", "March", "April", "May", "June",
           "July", "August", "September", "October", "November", "December")
-result = 0
-print(' *r이 포함된 달')
-for i in months:
-    result = result + 1
-    if 'r' in i:
-        print(i)
+# result = 0
+# print(' *r이 포함된 달')
+# for i in months:
+#     result = result + 1
+#     if 'r' in i:
+#         print(i)
+#-----------------------------
+# for month in months:
+#     if 'r' in month.lower():
+#         print(month)
+#----------------------------------
+for month in months:
+    if month.count('r')>0:
+        print(month)
+
 #      2.
 #        키보드로 3개의 정수를 입력 받았을때, 입력한 값 중에서 최대값과 최소값을 구하는
 #        프로그래을 작성하세요? (단, if  else 문을 이용하세요?)

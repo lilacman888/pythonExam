@@ -5,7 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="092a58b2-c69a-47b7-b7b9-066ab5c79372" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/2020_06_02/break01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/2020_06_02/break02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/2020_06_02/continue01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/2020_06_02/continue02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/2020_06_02/continue03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/2020_06_02/for01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/2020_06_02/for02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/2020_06_02/for03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/2020_06_02/for04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/2020_06_02/for05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/2020_06_02/for06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/2020_06_02/for07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/2020_06_02/for08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/2020_06_02/while01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/2020_06_02/while02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/2020_06_02/while03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/2020_06_02/while04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/2020_06_02/while05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/test02.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/2020_06_01/test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/test01.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,109 +37,110 @@
     <session id="766773204">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.13" value="2" />
           <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="2" />
-          <entry key="py" value="7995" />
+          <entry key="dummy" value="13" />
+          <entry key="py" value="11910" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="7995" />
+          <entry key="PLAIN_TEXT" value="13" />
+          <entry key="Python" value="11910" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="45" />
+          <entry key="py" value="73" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="45" />
+          <entry key="Python" value="73" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/2020_06_01/if03.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="4" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/2020_06_01/test1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/2020_06_01/builtin02.py">
+        <entry file="file://$PROJECT_DIR$/src/test/test02.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="144">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/2020_06_01/if07.py">
+        <entry file="file://$PROJECT_DIR$/src/2020_06_02/continue03.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+            <state relative-caret-position="128">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/2020_06_01/if06.py">
+        <entry file="file://$PROJECT_DIR$/src/2020_06_02/continue02.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/2020_06_02/continue01.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret selection-end-line="6" selection-end-column="38" />
+              <caret selection-end-line="1" selection-end-column="47" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/2020_06_01/if05.py">
+        <entry file="file://$PROJECT_DIR$/src/2020_06_02/break01.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+            <state>
+              <caret selection-end-line="2" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/2020_06_01/if02.py">
+        <entry file="file://$PROJECT_DIR$/src/2020_06_02/break02.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+            <state relative-caret-position="64">
+              <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/2020_06_01/if04.py">
+        <entry file="file://$PROJECT_DIR$/src/2020_06_02/while05.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+            <state relative-caret-position="144">
+              <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/2020_06_02/while04.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -168,15 +189,37 @@
         <option value="$PROJECT_DIR$/src/2020_06_01/if03.py" />
         <option value="$PROJECT_DIR$/src/2020_06_01/if04.py" />
         <option value="$PROJECT_DIR$/src/2020_06_01/if05.py" />
-        <option value="$PROJECT_DIR$/src/2020_06_01/test1.py" />
         <option value="$PROJECT_DIR$/src/2020_06_01/if06.py" />
         <option value="$PROJECT_DIR$/src/2020_06_01/if07.py" />
+        <option value="$PROJECT_DIR$/src/2020_06_01/test1.py" />
+        <option value="$PROJECT_DIR$/src/2020_06_02/for01.py" />
+        <option value="$PROJECT_DIR$/src/2020_06_02/for02.py" />
+        <option value="$PROJECT_DIR$/src/2020_06_02/for03.py" />
+        <option value="$PROJECT_DIR$/src/2020_06_02/for04.py" />
+        <option value="$PROJECT_DIR$/src/2020_06_02/for05.py" />
+        <option value="$PROJECT_DIR$/src/2020_06_02/for06.py" />
+        <option value="$PROJECT_DIR$/src/2020_06_02/for07.py" />
+        <option value="$PROJECT_DIR$/src/test/test.py" />
+        <option value="$PROJECT_DIR$/src/2020_06_02/for08.py" />
+        <option value="$PROJECT_DIR$/src/2020_06_02/while01.py" />
+        <option value="$PROJECT_DIR$/src/2020_06_02/while02.py" />
+        <option value="$PROJECT_DIR$/src/2020_06_02/while.py" />
+        <option value="$PROJECT_DIR$/src/2020_06_02/while03.py" />
+        <option value="$PROJECT_DIR$/src/2020_06_02/while04.py" />
+        <option value="$PROJECT_DIR$/src/2020_06_02/while05.py" />
+        <option value="$PROJECT_DIR$/src/2020_06_02/break01.py" />
+        <option value="$PROJECT_DIR$/src/2020_06_02/break02.py" />
+        <option value="$PROJECT_DIR$/src/2020_06_02/break03.py" />
+        <option value="$PROJECT_DIR$/src/2020_06_02/continue01.py" />
+        <option value="$PROJECT_DIR$/src/2020_06_02/continue02.py" />
+        <option value="$PROJECT_DIR$/src/2020_06_02/continue03.py" />
+        <option value="$PROJECT_DIR$/src/test/test02.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="884" />
-    <option name="width" value="1043" />
+    <option name="x" value="953" />
+    <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -187,7 +230,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -204,13 +246,13 @@
               <item name="pythonSpace" type="b2602c69:ProjectViewProjectNode" />
               <item name="pythonSpace" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="2020_05_29" type="462c0819:PsiDirectoryNode" />
+              <item name="2020_06_02" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="pythonSpace" type="b2602c69:ProjectViewProjectNode" />
               <item name="pythonSpace" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="2020_06_01" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="pythonSpace" type="b2602c69:ProjectViewProjectNode" />
@@ -221,17 +263,20 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\pythonSpace\src\2020_05_28" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\pythonSpace\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\pythonSpace\src\test" />
+      <recent name="C:\pythonSpace\src\2020_06_02" />
+      <recent name="C:\pythonSpace\src\2020_05_28" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -246,8 +291,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.if07">
-    <configuration name="if01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.test02">
+    <configuration name="break02" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonSpace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -255,11 +300,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/2020_06_01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/2020_06_02" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/2020_06_01/if01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/2020_06_02/break02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -268,7 +313,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="if02" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="continue01" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonSpace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -276,11 +321,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/2020_06_01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/2020_06_02" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/2020_06_01/if02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/2020_06_02/continue01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -289,7 +334,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="if04" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="continue02" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonSpace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -297,11 +342,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/2020_06_01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/2020_06_02" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/2020_06_01/if04.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/2020_06_02/continue02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -310,7 +355,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="if05" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="continue03" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonSpace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -318,11 +363,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/2020_06_01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/2020_06_02" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/2020_06_01/if05.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/2020_06_02/continue03.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -331,7 +376,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="if07" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="for06" type="PythonConfigurationType" factoryName="Python">
       <module name="pythonSpace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -339,11 +384,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/2020_06_01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/2020_06_02" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/2020_06_01/if07.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/2020_06_02/for06.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test02" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythonSpace" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/test/test02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -364,7 +430,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/2020_06_01/test1.py" />
+      <option name="SCRIPT_NAME" value="C:\pythonSpace\src\test\test01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -374,20 +440,21 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.for06" />
       <item itemvalue="Python.test1" />
-      <item itemvalue="Python.if01" />
-      <item itemvalue="Python.if02" />
-      <item itemvalue="Python.if04" />
-      <item itemvalue="Python.if05" />
-      <item itemvalue="Python.if07" />
+      <item itemvalue="Python.test02" />
+      <item itemvalue="Python.break02" />
+      <item itemvalue="Python.continue01" />
+      <item itemvalue="Python.continue02" />
+      <item itemvalue="Python.continue03" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.if07" />
-        <item itemvalue="Python.if05" />
-        <item itemvalue="Python.if04" />
-        <item itemvalue="Python.if02" />
-        <item itemvalue="Python.if01" />
+        <item itemvalue="Python.test02" />
+        <item itemvalue="Python.continue03" />
+        <item itemvalue="Python.continue02" />
+        <item itemvalue="Python.continue01" />
+        <item itemvalue="Python.break02" />
       </list>
     </recent_temporary>
   </component>
@@ -405,10 +472,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="884" y="0" width="1043" height="1047" extended-state="0" />
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18706468" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2008547" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -426,6 +493,25 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2008547" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32845894" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -494,13 +580,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/2020_06_01/builtin01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="29" column="43" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/2020_05_29/oper06.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -543,31 +622,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/2020_06_01/if03.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="4" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/2020_06_01/test1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/2020_06_01/if07.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
           <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/2020_06_01/if06.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="6" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -595,7 +653,174 @@
     <entry file="file://$PROJECT_DIR$/src/2020_06_01/builtin02.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="224">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/2020_06_01/if03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="4" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/2020_06_01/if06.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/2020_06_01/builtin01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" selection-start-line="12" selection-end-line="15" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/test01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="32" column="1" lean-forward="true" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/2020_06_02/for04.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="4" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/2020_06_02/for05.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/2020_06_02/for06.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/2020_06_02/for07.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="11" lean-forward="true" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/test.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/2020_06_02/for08.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="25" column="14" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/2020_06_02/while01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/2020_06_02/while02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" column="12" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/2020_06_02/while.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/2020_06_02/while03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/2020_06_02/while05.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/2020_06_02/for01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/2020_06_02/for02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/2020_06_02/for03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/2020_06_02/while04.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/2020_06_02/break01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/2020_06_02/break02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/2020_06_02/continue01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/2020_06_02/continue02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/2020_06_02/continue03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/test02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
